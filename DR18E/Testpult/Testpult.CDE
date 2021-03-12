@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+	<creator type="key">ControlDesk 6.1</creator>
+	<experiment>
+		<Creator type="key">ControlDesk</Creator>
+		<Name type="key">Testpult.CDE</Name>
+		<DisplayName type="key">Testpult</DisplayName>
+		<Path type="key">.\Testpult</Path>
+		<Flags type="key">4096</Flags>
+		<Type type="key">2</Type>
+		<UniqueID type="key">301816035</UniqueID>
+		<EntityID type="key">{42B5F190-67D3-4BC6-8E63-283ABEE7B131}</EntityID>
+		<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+		<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+		<ItemInfoDescr type="key"/>
+		<ItemInfoAddInfoDb type="key"/>
+		<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+		<item>
+			<Targets type="key">experiment</Targets>
+			<Name type="key">Testpult</Name>
+			<DisplayName type="key">Testpult</DisplayName>
+			<Path type="key">..</Path>
+			<Flags type="key">4100</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">557170647</UniqueID>
+			<EntityID type="key">{BDB62546-1110-40E3-B5C4-F75D87B47158}</EntityID>
+			<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			<item>
+				<Component type="key">Instrumentation</Component>
+				<Targets type="key">instrumentation</Targets>
+				<Name type="key">Experiment Layouts</Name>
+				<DisplayName type="key">Experiment Layouts</DisplayName>
+				<Path type="key">.</Path>
+				<ExtendedFlags type="key">4224</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">710486796</UniqueID>
+				<EntityID type="key">{68203DE9-F852-49F0-A92D-35A15A7E0DED}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Vehicle State Machine.lay</Name>
+					<DisplayName type="key">Vehicle State Machine.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">1036897640</UniqueID>
+					<EntityID type="key">{94BE0F2B-E9D4-4B04-B93D-382163D93DA0}</EntityID>
+					<ItemInfoDate type="key">14.02.2018 15:57:53</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Umrichter1 Status.lay</Name>
+					<DisplayName type="key">Umrichter1 Status.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">522161133</UniqueID>
+					<EntityID type="key">{144EADAC-8507-4039-BA92-1E2152FEEA13}</EntityID>
+					<ItemInfoDate type="key">14.02.2018 15:57:52</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Umrichter2 Status.lay</Name>
+					<DisplayName type="key">Umrichter2 Status.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">225565659</UniqueID>
+					<EntityID type="key">{279257A7-2FF1-4ED0-8F63-07D255A8A45D}</EntityID>
+					<ItemInfoDate type="key">16.02.2018 13:37:23</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Überblick_DR18E.lay</Name>
+					<DisplayName type="key">Überblick_DR18E.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">869781106</UniqueID>
+					<EntityID type="key">{7A4630B2-6D59-4FFE-9770-097DA79D83A1}</EntityID>
+					<ItemInfoDate type="key">14.02.2018 15:57:51</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Name type="key">Testpult.cdc</Name>
+					<DisplayName type="key">Testpult.cdc</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">4100</Flags>
+					<Type type="key">4</Type>
+					<UniqueID type="key">1072679967</UniqueID>
+					<EntityID type="key">{32E97BEE-17DC-45D9-A27A-11947BC6BD9A}</EntityID>
+					<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">CAN-Status.lay</Name>
+					<DisplayName type="key">CAN-Status.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">648274253</UniqueID>
+					<EntityID type="key">{B2A256D2-77CF-4767-A1A4-385EED4C1A17}</EntityID>
+					<ItemInfoDate type="key">15.12.2017 14:08:48</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">CAN IO.lay</Name>
+					<DisplayName type="key">CAN IO.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">1025721144</UniqueID>
+					<EntityID type="key">{1CF8ED07-79A7-43FE-A74F-C180EBD577B9}</EntityID>
+					<ItemInfoDate type="key">14.02.2018 15:57:35</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Temperaturegelung.lay</Name>
+					<DisplayName type="key">Temperaturegelung.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">320326675</UniqueID>
+					<EntityID type="key">{4EE4C258-5791-4A70-AB71-48589C9477E1}</EntityID>
+					<ItemInfoDate type="key">02.03.2018 14:46:09</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Aufbau.lay</Name>
+					<DisplayName type="key">Aufbau.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">367166555</UniqueID>
+					<EntityID type="key">{27512BD9-4468-4CE4-85D8-1328B8C92304}</EntityID>
+					<ItemInfoDate type="key">06.03.2018 15:51:45</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Freigabe_Testaufbau.lay</Name>
+					<DisplayName type="key">Freigabe_Testaufbau.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">727813730</UniqueID>
+					<EntityID type="key">{082C770C-26AE-4379-9E85-00693335421F}</EntityID>
+					<ItemInfoDate type="key">02.03.2018 12:10:36</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Targets type="key">instrumentation</Targets>
+					<Name type="key">old_DR17E</Name>
+					<DisplayName type="key">old_DR17E</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<ExtendedFlags type="key">128</ExtendedFlags>
+					<Type type="key">57</Type>
+					<UniqueID type="key">163787853</UniqueID>
+					<EntityID type="key">{89B93B07-F0A4-4F34-93DE-7B9475B9FC71}</EntityID>
+					<ItemInfoDate type="key">14.02.2018 15:55:39</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Battery Packs Left.lay</Name>
+						<DisplayName type="key">Battery Packs Left.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">189982320</UniqueID>
+						<EntityID type="key">{C978B420-A9B6-4ABF-A2FB-7BE2D2752C03}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:34</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Battery Packs_Right.lay</Name>
+						<DisplayName type="key">Battery Packs_Right.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">115622199</UniqueID>
+						<EntityID type="key">{72E05C99-9BDF-4D30-8663-A009FA7A3EC5}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:35</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Copy of Überblick.lay</Name>
+						<DisplayName type="key">Copy of Überblick.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">850525207</UniqueID>
+						<EntityID type="key">{61F04F51-2CBC-48B0-98AE-927C5A34D050}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:39</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Current and Soc.lay</Name>
+						<DisplayName type="key">Current and Soc.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">82943009</UniqueID>
+						<EntityID type="key">{5C37F4C9-9582-4781-A6F7-6216B38D41FD}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:40</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Drehzahl_Auswertung.lay</Name>
+						<DisplayName type="key">Drehzahl_Auswertung.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">475055849</UniqueID>
+						<EntityID type="key">{9AFC9908-EDE0-43B6-A770-7C8F2897496C}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:41</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">GLV AMS.lay</Name>
+						<DisplayName type="key">GLV AMS.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">208945337</UniqueID>
+						<EntityID type="key">{0DDA2BD1-9803-4BE7-ADEB-D372F80D4134}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:41</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">GLV Battery.lay</Name>
+						<DisplayName type="key">GLV Battery.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">514901088</UniqueID>
+						<EntityID type="key">{011B82B4-0FA2-4521-9F44-5292C38C9473}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:42</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Inverter_Motoren.lay</Name>
+						<DisplayName type="key">Inverter_Motoren.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">578439603</UniqueID>
+						<EntityID type="key">{7F385816-C880-4E23-B60A-2505468D811B}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:42</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Safety.lay</Name>
+						<DisplayName type="key">Safety.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">960236268</UniqueID>
+						<EntityID type="key">{5BB0B5EA-800A-4F61-B6BA-EA6A87AB72F8}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:46</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Sensorboard Front.lay</Name>
+						<DisplayName type="key">Sensorboard Front.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">106852841</UniqueID>
+						<EntityID type="key">{C958F007-16B5-474C-AE4B-CB4A9645245A}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:47</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Sensorboard Mitte.lay</Name>
+						<DisplayName type="key">Sensorboard Mitte.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">937221051</UniqueID>
+						<EntityID type="key">{273A4187-70ED-4438-BCB5-3B1B4CE32C0D}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:47</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Sensorboard Rear.lay</Name>
+						<DisplayName type="key">Sensorboard Rear.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">783448278</UniqueID>
+						<EntityID type="key">{53794DCB-8302-47FD-9C76-ACA6591097FC}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:47</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Sicherheitskreis.lay</Name>
+						<DisplayName type="key">Sicherheitskreis.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">691098284</UniqueID>
+						<EntityID type="key">{9ABB484A-2288-4D58-A1BF-BA8C803DB821}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:48</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Throttle.lay</Name>
+						<DisplayName type="key">Throttle.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">831639776</UniqueID>
+						<EntityID type="key">{52F8EC11-A1BF-48DC-8678-04158CA9234B}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:48</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">TorqueVectoring.lay</Name>
+						<DisplayName type="key">TorqueVectoring.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">849960305</UniqueID>
+						<EntityID type="key">{BC1621FD-F1B7-4F80-BEDD-D210B4E2D5CC}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:49</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">TractionControl.lay</Name>
+						<DisplayName type="key">TractionControl.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">850249902</UniqueID>
+						<EntityID type="key">{07010FE4-8975-40A4-8AC4-49AE037DF916}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:49</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Überblick.lay</Name>
+						<DisplayName type="key">Überblick.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">805971127</UniqueID>
+						<EntityID type="key">{1E7FC7FE-2D80-41EB-BC92-212EE0A99833}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:49</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Überblick_.lay</Name>
+						<DisplayName type="key">Überblick_.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">560411085</UniqueID>
+						<EntityID type="key">{898CCA87-67ED-4FEA-B5CF-E27CE030DD20}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:50</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Überblick_1.lay</Name>
+						<DisplayName type="key">Überblick_1.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">808120266</UniqueID>
+						<EntityID type="key">{9494FDCF-D70F-4FF0-A675-EBDCBD222941}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:50</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">Instrumentation</Component>
+						<Name type="key">Überblick_old.lay</Name>
+						<DisplayName type="key">Überblick_old.lay</DisplayName>
+						<Path type="key">.\Experiment Layouts</Path>
+						<Flags type="key">17472</Flags>
+						<Type type="key">10</Type>
+						<UniqueID type="key">80352634</UniqueID>
+						<EntityID type="key">{5BA579DE-8AE5-4345-BB76-A51BC2C86EDE}</EntityID>
+						<ItemInfoDate type="key">14.02.2018 15:57:51</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Derating.lay</Name>
+					<DisplayName type="key">Derating.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">17472</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">815299793</UniqueID>
+					<EntityID type="key">{E788219F-355E-4D56-A468-973AEB6193D3}</EntityID>
+					<ItemInfoDate type="key">18.07.2018 12:30:08</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Gaspedal.lay</Name>
+					<DisplayName type="key">Gaspedal.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">17472</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">250988007</UniqueID>
+					<EntityID type="key">{E4F2C783-4728-4334-B146-B9CB235BD170}</EntityID>
+					<ItemInfoDate type="key">05.01.2019 18:34:27</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">HV_Battery_Input.lay</Name>
+					<DisplayName type="key">HV_Battery_Input.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">286894894</UniqueID>
+					<EntityID type="key">{7FAE7703-AE96-4FDF-BB82-D64065EB26FC}</EntityID>
+					<ItemInfoDate type="key">16.02.2019 13:57:31</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">Instrumentation</Component>
+					<Name type="key">Warnings.lay</Name>
+					<DisplayName type="key">Warnings.lay</DisplayName>
+					<Path type="key">.\Experiment Layouts</Path>
+					<Flags type="key">16448</Flags>
+					<Type type="key">10</Type>
+					<UniqueID type="key">725445334</UniqueID>
+					<EntityID type="key">{51B9FE38-9217-4C44-A7C3-3B8C3476B70E}</EntityID>
+					<ItemInfoDate type="key">24.02.2019 12:26:33</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">devicemanagement,platformmanagement,diagnosticsmanagement</Targets>
+				<Name type="key">Hardware Configurations</Name>
+				<DisplayName type="key">Hardware Configurations</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">764115232</UniqueID>
+				<EntityID type="key">{3CBC8CBC-858B-49CB-B694-723BB07EE03A}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				<item>
+					<Component type="key">PlatformManagement</Component>
+					<Targets type="key">Device::88675055-b6cd-44ad-82a9-a9d5fef696f7</Targets>
+					<RestoreInfopmdn type="key">Platform</RestoreInfopmdn>
+					<RestoreInfopmid type="key">88675055-b6cd-44ad-82a9-a9d5fef696f7</RestoreInfopmid>
+					<Name type="key">88675055-b6cd-44ad-82a9-a9d5fef696f7</Name>
+					<DisplayName type="key">Platform [MicroAutoBox, unassigned]</DisplayName>
+					<Flags type="key">128</Flags>
+					<ExtendedFlags type="key">1024</ExtendedFlags>
+					<Type type="key">6</Type>
+					<UniqueID type="key">337909209</UniqueID>
+					<EntityID type="key">{896ABD63-8B0D-432F-801C-AF6A9BBC9A29}</EntityID>
+					<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoLog type="key">
+Property Enable platform/device changed on 07/13/2018 22:08:33
+Property Enable platform/device changed on 07/18/2018 11:55:05
+Property Enable platform/device changed on 08/01/2018 13:58:27
+Property Enable platform/device changed on 08/01/2018 16:16:03
+Property Enable platform/device changed on 08/01/2018 17:59:33
+Property Enable platform/device changed on 01/05/2019 18:18:45
+Property Enable platform/device changed on 01/13/2019 11:27:20
+Property Enable platform/device changed on 01/27/2019 12:58:19
+Property Enable platform/device changed on 01/27/2019 14:15:47
+Property Enable platform/device changed on 02/16/2019 13:38:04
+Property Enable platform/device changed on 02/23/2019 13:30:09
+Property Enable platform/device changed on 02/24/2019 12:21:38</ItemInfoLog>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Targets type="key">,VariableDescription::dr18e_testpult.sdf(#1)</Targets>
+						<Flags type="key">18736</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<UniqueID type="key">1008101872</UniqueID>
+						<LinkedItem type="key">384821524</LinkedItem>
+						<item>
+							<Component type="key">DataSetManager</Component>
+							<Name type="key">Data Sets</Name>
+							<DisplayName type="key">Data Sets</DisplayName>
+							<Path type="key">.</Path>
+							<Flags type="key">260</Flags>
+							<ExtendedFlags type="key">132</ExtendedFlags>
+							<Type type="key">3</Type>
+							<UniqueID type="key">587435976</UniqueID>
+							<EntityID type="key">{8FEA2A9A-40F7-42EE-8868-3AB39DB5A1EC}</EntityID>
+							<ItemInfoDate type="key">14.02.2018 15:15:23</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+						</item>
+					</item>
+				</item>
+				<item>
+					<Component type="key">PlatformManagement</Component>
+					<Targets type="key">Device::7b9d49f2-49c6-43f1-b10a-bb4e42fc6b44</Targets>
+					<RestoreInfopmdn type="key">Platform_2</RestoreInfopmdn>
+					<RestoreInfopmid type="key">7b9d49f2-49c6-43f1-b10a-bb4e42fc6b44</RestoreInfopmid>
+					<Name type="key">7b9d49f2-49c6-43f1-b10a-bb4e42fc6b44</Name>
+					<DisplayName type="key">Platform_2 [MicroAutoBox, assigned to 'ds1401_2']</DisplayName>
+					<Flags type="key">128</Flags>
+					<ExtendedFlags type="key">3072</ExtendedFlags>
+					<Type type="key">6</Type>
+					<UniqueID type="key">250852676</UniqueID>
+					<EntityID type="key">{074BC1FC-F583-4804-8E29-12F33DDA26EF}</EntityID>
+					<ItemInfoDate type="key">16.06.2018 19:43:46</ItemInfoDate>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Targets type="key">,VariableDescription::dr18e_testpult.sdf</Targets>
+						<Flags type="key">18736</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<UniqueID type="key">468504326</UniqueID>
+						<LinkedItem type="key">960325668</LinkedItem>
+						<item>
+							<Component type="key">DataSetManager</Component>
+							<Name type="key">Data Sets</Name>
+							<DisplayName type="key">Data Sets</DisplayName>
+							<Path type="key">.</Path>
+							<Flags type="key">260</Flags>
+							<ExtendedFlags type="key">132</ExtendedFlags>
+							<Type type="key">3</Type>
+							<UniqueID type="key">332348312</UniqueID>
+							<EntityID type="key">{CDE46A41-C800-499B-8D5C-62E4FA3855E5}</EntityID>
+							<ItemInfoDate type="key">16.06.2018 19:43:46</ItemInfoDate>
+							<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+							<ItemInfoDescr type="key"/>
+							<ItemInfoAddInfoDb type="key"/>
+							<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+						</item>
+					</item>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">datasetmanager</Targets>
+				<Name type="key">Data Sets</Name>
+				<DisplayName type="key">Data Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">187875361</UniqueID>
+				<EntityID type="key">{0ECAE741-74F7-471A-9CDB-FEC388731D90}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">measuredatamanagement</Targets>
+				<Name type="key">Measurement Data</Name>
+				<DisplayName type="key">Measurement Data</DisplayName>
+				<Path type="key">.</Path>
+				<ExtendedFlags type="key">4224</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">803824778</UniqueID>
+				<EntityID type="key">{C94653B3-3E16-4FAE-9B32-D18D9785EBDE}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				<item>
+					<Component type="key">MeasureDataManagement</Component>
+					<Name type="key">cv.vxf</Name>
+					<DisplayName type="key">cv.vxf</DisplayName>
+					<Path type="key">.\Measurement Data</Path>
+					<Flags type="key">4</Flags>
+					<Type type="key">4</Type>
+					<UniqueID type="key">714292355</UniqueID>
+					<EntityID type="key">{4BC85E55-B2F9-48A2-B3CC-E15FFC7F211C}</EntityID>
+					<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">.rtf,.pdf,.html,.xml,.txt,.csv</Targets>
+				<Docs type="key">.rtf,.pdf,.html,.txt,.csv</Docs>
+				<Name type="key">Reports</Name>
+				<DisplayName type="key">Reports</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">3227368</UniqueID>
+				<EntityID type="key">{95D7A1FE-572F-4488-BF4B-45622F9640A1}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.rtf,.pdf,.html,.txt,.csv</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">interpreter,.py</Targets>
+				<Docs type="key">.py</Docs>
+				<Name type="key">Python Scripts</Name>
+				<DisplayName type="key">Python Scripts</DisplayName>
+				<Path type="key">.</Path>
+				<ExtendedFlags type="key">4224</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">181393961</UniqueID>
+				<EntityID type="key">{769DAEB2-38B8-4DB7-BBD3-A31E162268FA}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.py</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">signaleditor</Targets>
+				<Name type="key">Signal Generators</Name>
+				<DisplayName type="key">Signal Generators</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">874116824</UniqueID>
+				<EntityID type="key">{F43677E8-0035-4855-9844-1FD2DA6D6676}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				<item>
+					<Component type="key">SignalEditor</Component>
+					<Name type="key">SignalSet.stz</Name>
+					<DisplayName type="key">SignalSet.stz</DisplayName>
+					<Path type="key">.\Signal Generators</Path>
+					<Flags type="key">17472</Flags>
+					<Type type="key">39</Type>
+					<UniqueID type="key">46710346</UniqueID>
+					<EntityID type="key">{D54274CD-213A-4FD9-A8EA-47B0C4F7F5B4}</EntityID>
+					<ItemInfoDate type="key">14.02.2018 15:11:00</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">xilapieesport</Targets>
+				<Name type="key">XIL API EESPorts</Name>
+				<DisplayName type="key">XIL API EESPorts</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">91630485</UniqueID>
+				<EntityID type="key">{A238ADA1-1DDF-496C-8700-F37E69629C13}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+		</item>
+		<item>
+			<Name type="key">Events</Name>
+			<DisplayName type="key">Events</DisplayName>
+			<Path type="key">.</Path>
+			<Flags type="key">4</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">1068332465</UniqueID>
+			<EntityID type="key">{A2AC8224-3067-4B64-A8CE-C29E2A84ADC0}</EntityID>
+			<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			<item>
+				<Name type="key">Experiment.events</Name>
+				<DisplayName type="key">Experiment.events</DisplayName>
+				<Path type="key">.\Events</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">52</Type>
+				<UniqueID type="key">681805874</UniqueID>
+				<EntityID type="key">{293298EA-780B-48E0-90ED-EB56C2F795AD}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+		</item>
+	</experiment>
+	<UserManager/>
+	<XILAPIEESPort Version="1">
+		<XILAPIEESPort>
+			<EESPorts type="key">&lt;EESPorts /&gt;</EESPorts>
+		</XILAPIEESPort>
+	</XILAPIEESPort>
+	<SignalEditor/>
+	<Interpreter/>
+	<VariablesManagement Version="90">
+		<Favorites>
+			<Labels/>
+			<Favorite>
+				<VariableName type="key">Water_Temperature_Pump</VariableName>
+				<VariableUniqueName type="key">Model Root/Verarbeitung2/Sensor_Watertemp/Water_Temperature_Pump</VariableUniqueName>
+				<VariableDescriptionName type="key">dr18e_testpult.sdf</VariableDescriptionName>
+				<PlatformId type="key">88675055-b6cd-44ad-82a9-a9d5fef696f7</PlatformId>
+				<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+			</Favorite>
+			<Favorite>
+				<VariableName type="key">Out1</VariableName>
+				<VariableUniqueName type="key">Model Root/Ausgabe/CANIO/Inverter Enable/Out1</VariableUniqueName>
+				<VariableDescriptionName type="key">dr18e_testpult.sdf(#1)</VariableDescriptionName>
+				<PlatformId type="key">88675055-b6cd-44ad-82a9-a9d5fef696f7</PlatformId>
+				<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+			</Favorite>
+			<Favorite>
+				<VariableName type="key">_Iwcns</VariableName>
+				<VariableUniqueName type="key">Model Root/Eingabe Fahrzeug/Inverter Feedback Messages/Istwerte Umrichter 2 empfangen/Red ID 64: \nStatus Register Auswertung/_Iwcns</VariableUniqueName>
+				<VariableDescriptionName type="key">dr18e_testpult.sdf(#1)</VariableDescriptionName>
+				<PlatformId type="key">88675055-b6cd-44ad-82a9-a9d5fef696f7</PlatformId>
+				<PlatformDisplayName type="key">Platform</PlatformDisplayName>
+			</Favorite>
+			<Favorite>
+				<VariableName type="key">TQ_left_after_TCTV_Nm</VariableName>
+				<VariableUniqueName type="key">Model Root/Verarbeitung/DR18E Torque Control/TQ_left_after_TCTV_Nm</VariableUniqueName>
+				<VariableDescriptionName type="key">dr18e_testpult.sdf</VariableDescriptionName>
+				<PlatformId type="key">7b9d49f2-49c6-43f1-b10a-bb4e42fc6b44</PlatformId>
+				<PlatformDisplayName type="key">Platform_2</PlatformDisplayName>
+			</Favorite>
+		</Favorites>
+	</VariablesManagement>
+	<ProjectExperiment/>
+	<MeasureDataManagement Version="4">
+		<TriggerRules>
+			<Version type="key">2</Version>
+		</TriggerRules>
+		<BookmarkTypes>
+			<BookmarkType>
+				<TypeID type="key">1</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">2</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">3</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">5</TypeID>
+				<RecordingActive type="key">0</RecordingActive>
+				<VisualizationActive type="key">0</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">6</TypeID>
+				<RecordingActive type="key">0</RecordingActive>
+				<VisualizationActive type="key">0</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">8</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">9</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">10</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">11</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">12</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">13</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">14</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">15</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+			<BookmarkType>
+				<TypeID type="key">4</TypeID>
+				<RecordingActive type="key">1</RecordingActive>
+				<VisualizationActive type="key">1</VisualizationActive>
+			</BookmarkType>
+		</BookmarkTypes>
+		<ProjectExperimentSettings>
+			<ShowMeasurementLinks type="key">-1</ShowMeasurementLinks>
+		</ProjectExperimentSettings>
+		<MeasurementConfiguration>
+			<NextUniqueKey type="key">27</NextUniqueKey>
+			<SignalList>
+				<Variable>
+					<Name type="key">Model Root/Verarbeitung/Vehicle State Machine/I_Sicherheitskreis_in</Name>
+					<Platform type="key">7b9d49f2-49c6-43f1-b10a-bb4e42fc6b44</Platform>
+					<Active type="key">-1</Active>
+					<Signal>
+						<Raster type="key">HostService</Raster>
+					</Signal>
+				</Variable>
+			</SignalList>
+			<Platforms>
+				<Platform>
+					<Name type="key">88675055-b6cd-44ad-82a9-a9d5fef696f7</Name>
+					<FilteredRastersView type="key">1</FilteredRastersView>
+					<DefaultRaster type="key">HostService</DefaultRaster>
+					<PlatformTriggers/>
+					<Rasters>
+						<PlatformTriggered>
+							<Name type="key">HostService</Name>
+							<AutoRepeatEnabled type="key">1</AutoRepeatEnabled>
+							<AutoRepeatBehavior type="key">1</AutoRepeatBehavior>
+							<MultiCaptureHistoryEnabled type="key">0</MultiCaptureHistoryEnabled>
+							<DownsamplingFactor type="key">1</DownsamplingFactor>
+							<StartTrigger type="key">23</StartTrigger>
+							<StopTrigger type="key">24</StopTrigger>
+						</PlatformTriggered>
+					</Rasters>
+					<EnabledHardwarePollingRasters/>
+				</Platform>
+				<Platform>
+					<Name type="key">7b9d49f2-49c6-43f1-b10a-bb4e42fc6b44</Name>
+					<FilteredRastersView type="key">1</FilteredRastersView>
+					<DefaultRaster type="key">HostService</DefaultRaster>
+					<PlatformTriggers/>
+					<Rasters>
+						<PlatformTriggered>
+							<Name type="key">HostService</Name>
+							<AutoRepeatEnabled type="key">1</AutoRepeatEnabled>
+							<AutoRepeatBehavior type="key">1</AutoRepeatBehavior>
+							<MultiCaptureHistoryEnabled type="key">0</MultiCaptureHistoryEnabled>
+							<DownsamplingFactor type="key">1</DownsamplingFactor>
+							<StartTrigger type="key">25</StartTrigger>
+							<StopTrigger type="key">26</StopTrigger>
+						</PlatformTriggered>
+					</Rasters>
+					<EnabledHardwarePollingRasters/>
+				</Platform>
+				<Platform>
+					<Name type="key">Calculated</Name>
+					<FilteredRastersView type="key">1</FilteredRastersView>
+					<PlatformTriggers/>
+					<Rasters>
+						<Raster>
+							<Name type="key">Merged</Name>
+							<MinimumSamplingPeriod type="key">0.001</MinimumSamplingPeriod>
+						</Raster>
+					</Rasters>
+					<EnabledHardwarePollingRasters/>
+				</Platform>
+			</Platforms>
+			<DurationTriggers>
+				<DurationTrigger>
+					<UniqueKey type="key">24</UniqueKey>
+					<Name type="key">Duration Trigger 1</Name>
+					<Delay type="key">0</Delay>
+					<Duration type="key">1</Duration>
+					<Enabled type="key">0</Enabled>
+				</DurationTrigger>
+				<DurationTrigger>
+					<UniqueKey type="key">26</UniqueKey>
+					<Name type="key">Duration Trigger 2</Name>
+					<Delay type="key">0</Delay>
+					<Duration type="key">1</Duration>
+					<Enabled type="key">0</Enabled>
+				</DurationTrigger>
+			</DurationTriggers>
+			<SampleCountTriggers/>
+			<Acquisition>
+				<MeasurementBufferSize type="key">60</MeasurementBufferSize>
+				<BufferOverflowWarningEnabled type="key">0</BufferOverflowWarningEnabled>
+				<BufferOverflowWarningTime type="key">10</BufferOverflowWarningTime>
+				<SaveMeasurementBuffer>
+					<AddToExperimentEnabled type="key">-1</AddToExperimentEnabled>
+					<AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled>
+					<AutomaticExportEnabled type="key">0</AutomaticExportEnabled>
+					<AutomaticExportFileNamePrefix type="key">bufexp_</AutomaticExportFileNamePrefix>
+					<AutomaticExportFileType type="key">ASAM MDF 4.1 Files (*.mf4)</AutomaticExportFileType>
+					<AutomaticExportFolder type="key"/>
+					<AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled>
+					<AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits>
+					<AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex>
+					<Description type="key"/>
+					<FileNamePrefix type="key">buf_</FileNamePrefix>
+					<OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled>
+					<RecordingFileType type="key">ASAM MDF 4.1 Files (*.mf4)</RecordingFileType>
+				</SaveMeasurementBuffer>
+				<SaveDisplayedData>
+					<AddToExperimentEnabled type="key">-1</AddToExperimentEnabled>
+					<AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled>
+					<AutomaticExportEnabled type="key">0</AutomaticExportEnabled>
+					<AutomaticExportFileNamePrefix type="key">sddexp_</AutomaticExportFileNamePrefix>
+					<AutomaticExportFileType type="key">ASAM MDF 4.1 Files (*.mf4)</AutomaticExportFileType>
+					<AutomaticExportFolder type="key"/>
+					<AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled>
+					<AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits>
+					<AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex>
+					<Description type="key"/>
+					<FileNamePrefix type="key">sdd_</FileNamePrefix>
+					<OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled>
+					<RecordingFileType type="key">ASAM MDF 4.1 Files (*.mf4)</RecordingFileType>
+				</SaveDisplayedData>
+				<SaveFlightRecorderData>
+					<AddToExperimentEnabled type="key">-1</AddToExperimentEnabled>
+					<AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled>
+					<AutomaticExportEnabled type="key">0</AutomaticExportEnabled>
+					<AutomaticExportFileNamePrefix type="key">flightrecexp_</AutomaticExportFileNamePrefix>
+					<AutomaticExportFileType type="key">ASAM MDF 4.1 Files (*.mf4)</AutomaticExportFileType>
+					<AutomaticExportFolder type="key"/>
+					<AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled>
+					<AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits>
+					<AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex>
+					<Description type="key"/>
+					<FileNamePrefix type="key">flightrec_</FileNamePrefix>
+					<OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled>
+					<RecordingFileType type="key">ASAM MDF 4.1 Files (*.mf4)</RecordingFileType>
+				</SaveFlightRecorderData>
+			</Acquisition>
+			<Recorders>
+				<Recorder>
+					<Name type="key">Recorder 1</Name>
+					<UniqueKey type="key">20</UniqueKey>
+					<AutomaticSignalConfigurationEnabled type="key">-1</AutomaticSignalConfigurationEnabled>
+					<WriteToFileEnabled type="key">-1</WriteToFileEnabled>
+					<MeasurementTimestampsEnabled type="key">0</MeasurementTimestampsEnabled>
+					<StartAudioSignalEnabled type="key">0</StartAudioSignalEnabled>
+					<StopAudioSignalEnabled type="key">0</StopAudioSignalEnabled>
+					<Active type="key">-1</Active>
+					<StartCondition>
+						<Enabled type="key">0</Enabled>
+						<RecordingCycleCount type="key">1</RecordingCycleCount>
+						<SelectedTriggerRule type="key"/>
+						<TriggerDelay type="key">0</TriggerDelay>
+					</StartCondition>
+					<StopCondition>
+						<RecordingStopWarningEnabled type="key">0</RecordingStopWarningEnabled>
+						<RecordingStopWarningTime type="key">60</RecordingStopWarningTime>
+						<SelectedTriggerRule type="key"/>
+						<Type type="key">0</Type>
+						<TimeLimit type="key">3600</TimeLimit>
+						<TriggerDelay type="key">0</TriggerDelay>
+					</StopCondition>
+					<StorageInformation>
+						<AddToExperimentEnabled type="key">-1</AddToExperimentEnabled>
+						<AutomaticSaveDialogEnabled type="key">0</AutomaticSaveDialogEnabled>
+						<AutomaticExportEnabled type="key">0</AutomaticExportEnabled>
+						<AutomaticExportFileNamePrefix type="key">exp1_</AutomaticExportFileNamePrefix>
+						<AutomaticExportFileType type="key">ASAM MDF 4.1 Files (*.mf4)</AutomaticExportFileType>
+						<AutomaticExportFolder type="key"/>
+						<AutomaticNamingEnabled type="key">-1</AutomaticNamingEnabled>
+						<AutomaticNamingMinimunDigits type="key">3</AutomaticNamingMinimunDigits>
+						<AutomaticNamingStartIndex type="key">1</AutomaticNamingStartIndex>
+						<Description type="key"/>
+						<FileNamePrefix type="key">rec1_</FileNamePrefix>
+						<OpenInMeasurementDataPoolEnabled type="key">0</OpenInMeasurementDataPoolEnabled>
+						<RecordingFileType type="key">ASAM MDF 4.1 Files (*.mf4)</RecordingFileType>
+					</StorageInformation>
+					<SignalList>
+						<Variable>
+							<Name type="key">Model Root/Verarbeitung/Vehicle State Machine/I_Sicherheitskreis_in</Name>
+							<Platform type="key">7b9d49f2-49c6-43f1-b10a-bb4e42fc6b44</Platform>
+							<PlatformDisplayName type="key">Platform_2</PlatformDisplayName>
+							<Recorded type="key">-1</Recorded>
+							<Signal>
+								<Raster type="key">HostService</Raster>
+							</Signal>
+						</Variable>
+					</SignalList>
+				</Recorder>
+			</Recorders>
+		</MeasurementConfiguration>
+	</MeasureDataManagement>
+	<Instrumentation Version="1"/>
+	<DiagnosticsManagement/>
+	<PlatformManagement Version="9">
+		<SimulationTimeGroupSupported type="key">-1</SimulationTimeGroupSupported>
+		<DeviceFactory>
+			<Device>
+				<DeviceName type="key">88675055-b6cd-44ad-82a9-a9d5fef696f7</DeviceName>
+				<DisplayName type="key">Platform</DisplayName>
+				<DeviceType type="key">110</DeviceType>
+				<DeviceConfiguration/>
+				<applications/>
+				<AssignmentConfiguration>
+					<AssignmentInfo>
+						<AliasName type="key"/>
+						<BoardName type="key"/>
+						<ConnectionType type="key">1</ConnectionType>
+						<MACAddress type="key"/>
+						<Mode type="key">1</Mode>
+						<Children type="key">0</Children>
+						<NetClient type="key">192.168.0.199</NetClient>
+						<PlatformType type="key">0</PlatformType>
+						<PortAddress type="key">0</PortAddress>
+						<ProcessorName type="key"/>
+						<SerialNumber type="key"/>
+						<TopologyCheck type="key">0</TopologyCheck>
+						<AssignmentProperties>
+							<AssignmentProperty>
+								<Name type="key">PlatformType</Name>
+								<Value type="key">0</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">Mode</Name>
+								<Value type="key">1</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">ConnectionType</Name>
+								<Value type="key">1</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">Children</Name>
+								<Value type="key">0</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">BoardName</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">MACAddress</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">NetClient</Name>
+								<Value type="key">192.168.0.199</Value>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">PortAddress</Name>
+								<Value type="key">0</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">SerialNumber</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">ProcessorName</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">TopologyCheck</Name>
+								<Value type="key">False</Value>
+								<Type type="key">System.Boolean</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">AliasName</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+						</AssignmentProperties>
+					</AssignmentInfo>
+				</AssignmentConfiguration>
+				<GeneralSettings>
+					<StartOnlineCalibrationBehavior type="key">5</StartOnlineCalibrationBehavior>
+					<DeviceEnableResynchonisation type="key">1</DeviceEnableResynchonisation>
+					<MeasurementService type="key">0</MeasurementService>
+					<ResumeOnlineCalibrationBehaviour type="key">5</ResumeOnlineCalibrationBehaviour>
+					<DisplayStatusInformation type="key">-1</DisplayStatusInformation>
+					<EnablePlatform type="key">0</EnablePlatform>
+					<EnableDynamicProperties type="key">1</EnableDynamicProperties>
+				</GeneralSettings>
+				<SubstituteFactory/>
+			</Device>
+			<Device>
+				<DeviceName type="key">7b9d49f2-49c6-43f1-b10a-bb4e42fc6b44</DeviceName>
+				<DisplayName type="key">Platform_2</DisplayName>
+				<DeviceType type="key">110</DeviceType>
+				<DeviceConfiguration/>
+				<applications/>
+				<AssignmentConfiguration>
+					<AssignmentInfo>
+						<AliasName type="key"/>
+						<BoardName type="key"/>
+						<ConnectionType type="key">1</ConnectionType>
+						<MACAddress type="key"/>
+						<Mode type="key">1</Mode>
+						<Children type="key">0</Children>
+						<NetClient type="key">192.168.0.197</NetClient>
+						<PlatformType type="key">0</PlatformType>
+						<PortAddress type="key">0</PortAddress>
+						<ProcessorName type="key"/>
+						<SerialNumber type="key"/>
+						<TopologyCheck type="key">0</TopologyCheck>
+						<AssignmentProperties>
+							<AssignmentProperty>
+								<Name type="key">PlatformType</Name>
+								<Value type="key">0</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">Mode</Name>
+								<Value type="key">1</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">ConnectionType</Name>
+								<Value type="key">1</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">Children</Name>
+								<Value type="key">0</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">BoardName</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">MACAddress</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">NetClient</Name>
+								<Value type="key">192.168.0.197</Value>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">PortAddress</Name>
+								<Value type="key">0</Value>
+								<Type type="key">System.Int32</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">SerialNumber</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">ProcessorName</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">TopologyCheck</Name>
+								<Value type="key">False</Value>
+								<Type type="key">System.Boolean</Type>
+							</AssignmentProperty>
+							<AssignmentProperty>
+								<Name type="key">AliasName</Name>
+								<Value type="key"/>
+								<Type type="key">System.String</Type>
+							</AssignmentProperty>
+						</AssignmentProperties>
+					</AssignmentInfo>
+				</AssignmentConfiguration>
+				<GeneralSettings>
+					<StartOnlineCalibrationBehavior type="key">5</StartOnlineCalibrationBehavior>
+					<DeviceEnableResynchonisation type="key">1</DeviceEnableResynchonisation>
+					<MeasurementService type="key">0</MeasurementService>
+					<ResumeOnlineCalibrationBehaviour type="key">5</ResumeOnlineCalibrationBehaviour>
+					<DisplayStatusInformation type="key">-1</DisplayStatusInformation>
+					<EnablePlatform type="key">1</EnablePlatform>
+					<EnableDynamicProperties type="key">1</EnableDynamicProperties>
+				</GeneralSettings>
+				<SubstituteFactory/>
+			</Device>
+		</DeviceFactory>
+	</PlatformManagement>
+	<DataSetManager>
+		<Version>
+			<Version type="key">2</Version>
+		</Version>
+		<Work/>
+		<ActiveWork/>
+		<Reference/>
+		<ActiveReference/>
+		<Master/>
+		<ActiveMaster/>
+		<InitialMaster/>
+		<Incomplete/>
+		<IncompleteReadonly/>
+		<DataSet/>
+		<Readonly/>
+		<LabelListFilter>
+			<LabelListFilterFile type="key"/>
+			<LabelListFilterActive type="key">0</LabelListFilterActive>
+		</LabelListFilter>
+		<AutomaticDownload/>
+	</DataSetManager>
+</Root>

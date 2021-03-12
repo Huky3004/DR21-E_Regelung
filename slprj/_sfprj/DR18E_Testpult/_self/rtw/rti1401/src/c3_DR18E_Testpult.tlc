@@ -1,0 +1,144 @@
+%implements "chartSource" "C"
+%function ChartConfig(block, system) void
+  %createrecord chartConfiguration { ...
+          executeAtInitialization  0 ...
+  }
+  %return chartConfiguration
+%endfunction
+%function ChartDataMap(block, system) void
+  %createrecord ChartDataElements {\
+    NumChartData   18 \
+    ChartDataDefaults {\
+      RecordType   "ChartData"\
+      Dimensions   []\
+      IsTestPoint  0\
+    }\
+    ChartData {\
+      Name         "e_ErrorEventCounter"\
+      Description  "OutputEventCounter"\
+      SFName       ""\
+      Path         "e_Error"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "e_ACTIVEEventCounter"\
+      Description  "OutputEventCounter"\
+      SFName       ""\
+      Path         "e_ACTIVE"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "e_clearPowervoltageEventCounter"\
+      Description  "OutputEventCounter"\
+      SFName       ""\
+      Path         "e_clearPowervoltage"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_active_c3_DR18E_Testpult"\
+      Description  "StateIsActive"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_c3_DR18E_Testpult"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Init"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Init"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_UmrichterInit"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Init.UmrichterInit"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Check_Safety"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Init.Check_Safety"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_TS_init"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "TS_init"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Precharge"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "TS_init.Precharge"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Check_Safety1"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Check_Safety1"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_Sound"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "Sound"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_TS_active"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "TS_active"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_SafetyShutdown"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "SafetyShutdown"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_NormalShutdown"\
+      Description  "StateActiveChild"\
+      SFName       ""\
+      Path         "NormalShutdown"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "Init_complete"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "Init_complete"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "i"\
+      Description  "ChartLocal"\
+      SFName       ""\
+      Path         "Init.UmrichterInit.i"\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "temporalCounter_i1"\
+      Description  "TemporalCounter"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+  }
+  %return ChartDataElements
+%endfunction

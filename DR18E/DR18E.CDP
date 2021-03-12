@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+	<creator type="key">ControlDesk 6.1</creator>
+	<project>
+		<Creator type="key">ControlDesk</Creator>
+		<Name type="key">DR18E.CDP</Name>
+		<DisplayName type="key">DR18E</DisplayName>
+		<Flags type="key">4096</Flags>
+		<Type type="key">1</Type>
+		<UniqueID type="key">314163280</UniqueID>
+		<EntityID type="key">{453644B5-3CDF-4935-AA7A-1F0F8A32FE17}</EntityID>
+		<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+		<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+		<ItemInfoDescr type="key"/>
+		<ItemInfoAddInfoDb type="key"/>
+		<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+		<item>
+			<Targets type="key">project</Targets>
+			<Name type="key">DR18E</Name>
+			<DisplayName type="key">DR18E</DisplayName>
+			<Path type="key">..</Path>
+			<Flags type="key">4100</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">856301734</UniqueID>
+			<EntityID type="key">{7A9C381A-880F-460E-8E0C-CE0030411CC0}</EntityID>
+			<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			<item>
+				<Docs type="key">.doc,.docx,.pdf</Docs>
+				<Name type="key">Specifications</Name>
+				<DisplayName type="key">Specifications</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">994892249</UniqueID>
+				<EntityID type="key">{1BBDC672-868F-4BD0-A5FC-704849080077}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.doc,.docx,.pdf</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Docs type="key">.mpp</Docs>
+				<Name type="key">Project Plans</Name>
+				<DisplayName type="key">Project Plans</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">388105247</UniqueID>
+				<EntityID type="key">{E12262F9-97C9-4CD6-9A95-83B6A6582EF6}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.mpp</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">datasetmanager_global</Targets>
+				<Name type="key">Global Data Sets</Name>
+				<DisplayName type="key">Global Data Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">29</Type>
+				<UniqueID type="key">546360858</UniqueID>
+				<EntityID type="key">{4C8B6508-BD71-49F6-888B-507A0E650840}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">variablesmanagement</Targets>
+				<Name type="key">Variable Descriptions</Name>
+				<DisplayName type="key">Variable Descriptions</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">256</Flags>
+				<ExtendedFlags type="key">4</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">39985676</UniqueID>
+				<EntityID type="key">{41F7C325-B44A-4F78-B93D-4FF8F5FCE3DE}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				<item>
+					<Component type="key">VariablesManagement</Component>
+					<Name type="key">DR18E.vdb</Name>
+					<DisplayName type="key">C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\DR18E\Variable Descriptions\DR18E.vdb</DisplayName>
+					<Path type="key">.\Variable Descriptions</Path>
+					<Flags type="key">276</Flags>
+					<Type type="key">18</Type>
+					<UniqueID type="key">952212791</UniqueID>
+					<EntityID type="key">{446AE369-BA0E-4B1D-9027-DBEBFE68D663}</EntityID>
+					<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+				</item>
+				<item>
+					<Component type="key">VariablesManagement</Component>
+					<Name type="key">dr18e_testpult.sdf</Name>
+					<DisplayName type="key">dr18e_testpult.sdf(#1)</DisplayName>
+					<Path type="key">.\Variable Descriptions\dr18e_testpult.sdf(#1)</Path>
+					<Flags type="key">18704</Flags>
+					<Type type="key">7</Type>
+					<UniqueID type="key">384821524</UniqueID>
+					<EntityID type="key">{C2FA216A-00F5-4DA8-9E76-30AA589832D5}</EntityID>
+					<ItemInfoDate type="key">14.02.2018 15:15:23</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoLog type="key">
+Original file added from ..\Model\dr18e_testpult.sdf [2018-02-14 13:52:46 (UTC)]
+
+Variable description reloaded on 15.02.2018 16:57:53 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-02-15 15:54:14 (UTC)]
+
+Variable description reloaded on 16.02.2018 13:00:59 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-02-16 11:59:14 (UTC)]
+
+Variable description reloaded on 28.02.2018 14:03:26 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-02-28 13:00:03 (UTC)]
+
+Variable description reloaded on 02.03.2018 12:21:41 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-03-02 11:20:26 (UTC)]
+
+Variable description reloaded on 02.03.2018 12:27:22 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-03-02 11:26:21 (UTC)]
+
+Variable description reloaded on 06.03.2018 15:49:36 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-03-06 14:48:26 (UTC)]
+
+Variable description reloaded on 06.03.2018 15:58:54 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-03-06 14:58:27 (UTC)]
+
+Variable description reloaded on 06.03.2018 16:08:49 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-03-06 15:03:28 (UTC)]
+
+Variable description reloaded on 16.06.2018 19:43:54 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-06-16 17:42:14 (UTC)]
+
+Variable description reloaded on 13.07.2018 22:08:00 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-07-13 20:05:56 (UTC)]
+
+Variable description reloaded on 13.07.2018 22:31:18 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-07-13 20:29:40 (UTC)]
+</ItemInfoLog>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">dr18e_testpult.trc</Name>
+						<DisplayName type="key">dr18e_testpult.trc</DisplayName>
+						<Path type="key">.\Variable Descriptions\dr18e_testpult.sdf(#1)</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">216139655</UniqueID>
+						<EntityID type="key">{46CE034E-3180-40B1-AB12-7E0306659BDC}</EntityID>
+						<ItemInfoDate type="key">13.07.2018 22:31:17</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">dr18e_testpult.map</Name>
+						<DisplayName type="key">dr18e_testpult.map</DisplayName>
+						<Path type="key">.\Variable Descriptions\dr18e_testpult.sdf(#1)</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">587117299</UniqueID>
+						<EntityID type="key">{083792B1-AA39-4B13-B333-57B7A8873D98}</EntityID>
+						<ItemInfoDate type="key">13.07.2018 22:31:17</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">dr18e_testpult.ppc</Name>
+						<DisplayName type="key">dr18e_testpult.ppc</DisplayName>
+						<Path type="key">.\Variable Descriptions\dr18e_testpult.sdf(#1)</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">30</Type>
+						<UniqueID type="key">252236298</UniqueID>
+						<EntityID type="key">{6AF96880-299A-4EF4-974A-913E06533DA5}</EntityID>
+						<ItemInfoDate type="key">13.07.2018 22:31:17</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">dr18e_testpult.trz</Name>
+						<DisplayName type="key">dr18e_testpult.trz</DisplayName>
+						<Path type="key">.\Variable Descriptions\dr18e_testpult.sdf(#1)</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">82964843</UniqueID>
+						<EntityID type="key">{C4601729-DD3A-4025-B239-DEEBAAF87005}</EntityID>
+						<ItemInfoDate type="key">13.07.2018 22:31:17</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+				</item>
+				<item>
+					<Component type="key">VariablesManagement</Component>
+					<Name type="key">dr18e_testpult.sdf</Name>
+					<DisplayName type="key">dr18e_testpult.sdf</DisplayName>
+					<Path type="key">.\Variable Descriptions\dr18e_testpult.sdf</Path>
+					<Flags type="key">18704</Flags>
+					<Type type="key">7</Type>
+					<UniqueID type="key">960325668</UniqueID>
+					<EntityID type="key">{C0B315D9-A778-48F8-A1CC-96338E3E2936}</EntityID>
+					<ItemInfoDate type="key">16.06.2018 19:43:46</ItemInfoDate>
+					<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+					<ItemInfoDescr type="key"/>
+					<ItemInfoLog type="key">
+Original file added from ..\Model\dr18e_testpult.sdf [2018-06-16 17:42:14 (UTC)]
+
+Variable description reloaded on 13.07.2018 22:08:06 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-07-13 20:05:56 (UTC)]
+
+Variable description reloaded on 13.07.2018 22:31:22 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-07-13 20:29:40 (UTC)]
+
+Variable description reloaded on 19.07.2018 14:07:25 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-07-19 11:25:03 (UTC)]
+
+Variable description reloaded on 01.08.2018 14:14:54 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-07-20 15:01:55 (UTC)]
+
+Variable description reloaded on 01.08.2018 16:25:44 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-08-01 14:22:47 (UTC)]
+
+Variable description reloaded on 01.08.2018 16:35:27 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-08-01 14:34:15 (UTC)]
+
+Variable description reloaded on 01.08.2018 17:04:44 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-08-01 15:03:31 (UTC)]
+
+Variable description reloaded on 01.08.2018 17:27:18 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-08-01 15:26:09 (UTC)]
+
+Variable description reloaded on 01.08.2018 18:03:25 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-08-01 16:02:04 (UTC)]
+
+Variable description reloaded on 01.08.2018 18:10:30 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-08-01 16:09:25 (UTC)]
+
+Variable description reloaded on 01.08.2018 18:17:13 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-08-01 16:15:55 (UTC)]
+
+Variable description reloaded on 01.08.2018 18:42:03 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-08-01 16:39:42 (UTC)]
+
+Variable description reloaded on 01.08.2018 18:55:12 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2018-08-01 16:49:24 (UTC)]
+
+Variable description reloaded on 13.01.2019 12:37:02 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-01-13 11:35:04 (UTC)]
+
+Variable description reloaded on 27.01.2019 14:16:35 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-01-27 13:10:39 (UTC)]
+
+Variable description reloaded on 27.01.2019 14:34:46 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-01-27 13:33:40 (UTC)]
+
+Variable description reloaded on 27.01.2019 14:50:54 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-01-27 13:47:56 (UTC)]
+
+Variable description reloaded on 27.01.2019 14:58:47 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-01-27 13:57:15 (UTC)]
+
+Variable description reloaded on 27.01.2019 15:06:08 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-01-27 14:05:12 (UTC)]
+
+Variable description reloaded on 27.01.2019 15:19:36 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-01-27 14:18:25 (UTC)]
+
+Variable description reloaded on 27.01.2019 15:33:58 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-01-27 14:32:56 (UTC)]
+
+Variable description reloaded on 27.01.2019 15:56:48 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-01-27 14:55:46 (UTC)]
+
+Variable description reloaded on 16.02.2019 14:25:59 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-02-16 13:21:35 (UTC)]
+
+Variable description reloaded on 16.02.2019 15:51:08 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-02-16 14:47:12 (UTC)]
+
+Variable description reloaded on 23.02.2019 14:57:16 (C:\Users\DeltaRacing\Documents\dSPACE\MABX_DR18E\Model\dr18e_testpult.sdf)
+Original file added from ..\Model\dr18e_testpult.sdf [2019-02-23 13:56:09 (UTC)]
+</ItemInfoLog>
+					<ItemInfoAddInfoDb type="key"/>
+					<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">dr18e_testpult.trc</Name>
+						<DisplayName type="key">dr18e_testpult.trc</DisplayName>
+						<Path type="key">.\Variable Descriptions\dr18e_testpult.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">342538554</UniqueID>
+						<EntityID type="key">{B43C363E-3E45-44C7-A790-7EBDB0B12E03}</EntityID>
+						<ItemInfoDate type="key">23.02.2019 14:57:16</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">dr18e_testpult.map</Name>
+						<DisplayName type="key">dr18e_testpult.map</DisplayName>
+						<Path type="key">.\Variable Descriptions\dr18e_testpult.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">804646625</UniqueID>
+						<EntityID type="key">{9FC1F4AF-B054-461D-9EC1-9412676531A9}</EntityID>
+						<ItemInfoDate type="key">23.02.2019 14:57:16</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">dr18e_testpult.ppc</Name>
+						<DisplayName type="key">dr18e_testpult.ppc</DisplayName>
+						<Path type="key">.\Variable Descriptions\dr18e_testpult.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">30</Type>
+						<UniqueID type="key">279566053</UniqueID>
+						<EntityID type="key">{D628B270-D829-4F04-9C2D-F7BEFDD61D67}</EntityID>
+						<ItemInfoDate type="key">23.02.2019 14:57:16</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+					<item>
+						<Component type="key">VariablesManagement</Component>
+						<Name type="key">dr18e_testpult.trz</Name>
+						<DisplayName type="key">dr18e_testpult.trz</DisplayName>
+						<Path type="key">.\Variable Descriptions\dr18e_testpult.sdf</Path>
+						<Flags type="key">18692</Flags>
+						<ExtendedFlags type="key">1</ExtendedFlags>
+						<Type type="key">4</Type>
+						<UniqueID type="key">27627936</UniqueID>
+						<EntityID type="key">{266DC3EA-1107-4C0C-8CD1-CEA0D654882F}</EntityID>
+						<ItemInfoDate type="key">23.02.2019 14:57:16</ItemInfoDate>
+						<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+						<ItemInfoDescr type="key"/>
+						<ItemInfoAddInfoDb type="key"/>
+						<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+					</item>
+				</item>
+			</item>
+			<item>
+				<Targets type="key">datasetmanager</Targets>
+				<Name type="key">Data Sets</Name>
+				<DisplayName type="key">Data Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">29</Type>
+				<UniqueID type="key">144258584</UniqueID>
+				<EntityID type="key">{FBF7D2BF-247F-495C-8323-0E66C1C75BBB}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">.vfe</Targets>
+				<Name type="key">Variable Filters</Name>
+				<DisplayName type="key">Variable Filters</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">2304</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">642835715</UniqueID>
+				<EntityID type="key">{77B382CC-5958-430F-A93D-711AFCDC0984}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">.lab</Targets>
+				<Docs type="key">.lab,.txt</Docs>
+				<Name type="key">Label Lists</Name>
+				<DisplayName type="key">Label Lists</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">426537232</UniqueID>
+				<EntityID type="key">{17046E69-CA2A-4FDE-A041-23C8C937E747}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.lab,.txt</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">devicemanagement,platformmanagement</Targets>
+				<Name type="key">Global Devices</Name>
+				<DisplayName type="key">Global Devices</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">185748696</UniqueID>
+				<EntityID type="key">{CD66BCC3-4A1E-48E0-AB57-CE992B62BB82}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">interpreter,.py</Targets>
+				<Docs type="key">.py</Docs>
+				<Name type="key">Python Scripts</Name>
+				<DisplayName type="key">Python Scripts</DisplayName>
+				<Path type="key">.</Path>
+				<ExtendedFlags type="key">4224</ExtendedFlags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">1003958489</UniqueID>
+				<EntityID type="key">{31B643C9-F47C-4930-B436-793065BB2DCB}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDocs type="key">.py</ItemInfoDocs>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">busnavigator,.xml</Targets>
+				<Name type="key">BusNavigator</Name>
+				<DisplayName type="key">BusNavigator</DisplayName>
+				<Path type="key">.</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">3</Type>
+				<UniqueID type="key">665669063</UniqueID>
+				<EntityID type="key">{A85E216E-ACAA-4797-A177-37D29E270DD2}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+			<item>
+				<Targets type="key">signaleditor</Targets>
+				<Name type="key">Signal Description Sets</Name>
+				<DisplayName type="key">Signal Description Sets</DisplayName>
+				<Path type="key">.</Path>
+				<Type type="key">3</Type>
+				<UniqueID type="key">908200061</UniqueID>
+				<EntityID type="key">{E021D218-B9E3-4FE2-A881-7DA05764BDB4}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:30</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+		</item>
+		<item>
+			<Name type="key">Events</Name>
+			<DisplayName type="key">Events</DisplayName>
+			<Path type="key">.</Path>
+			<Flags type="key">4</Flags>
+			<Type type="key">3</Type>
+			<UniqueID type="key">233554158</UniqueID>
+			<EntityID type="key">{B991B538-864A-4710-8943-2B774FDEEC3C}</EntityID>
+			<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			<item>
+				<Name type="key">Project.events</Name>
+				<DisplayName type="key">Project.events</DisplayName>
+				<Path type="key">.\Events</Path>
+				<Flags type="key">4</Flags>
+				<Type type="key">52</Type>
+				<UniqueID type="key">680633089</UniqueID>
+				<EntityID type="key">{53B82467-8B69-41C2-AF1A-3EDDE7F222BC}</EntityID>
+				<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+				<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+				<ItemInfoDescr type="key"/>
+				<ItemInfoAddInfoDb type="key"/>
+				<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+			</item>
+		</item>
+	</project>
+	<experiments>
+		<experiment>
+			<Creator type="key">ControlDesk</Creator>
+			<Name type="key">Testpult.CDE</Name>
+			<DisplayName type="key">Testpult</DisplayName>
+			<Path type="key">.\Testpult</Path>
+			<Flags type="key">4096</Flags>
+			<Type type="key">2</Type>
+			<UniqueID type="key">301816035</UniqueID>
+			<EntityID type="key">{42B5F190-67D3-4BC6-8E63-283ABEE7B131}</EntityID>
+			<ItemInfoDate type="key">15.12.2017 12:31:31</ItemInfoDate>
+			<ItemInfoPath type="key">$FPATH$</ItemInfoPath>
+			<ItemInfoDescr type="key"/>
+			<ItemInfoAddInfoDb type="key"/>
+			<ItemInfoAuthor type="key">DeltaRacing</ItemInfoAuthor>
+		</experiment>
+	</experiments>
+	<UserManager/>
+	<XILAPIEESPort Version="1"/>
+	<SignalEditor/>
+	<Interpreter/>
+	<VariablesManagement Version="90">
+		<CreatorVersion type="key">601000572</CreatorVersion>
+	</VariablesManagement>
+	<ProjectExperiment>
+		<LastActiveExperiment type="key">Testpult</LastActiveExperiment>
+	</ProjectExperiment>
+	<MeasureDataManagement Version="4"/>
+	<Instrumentation Version="1">
+		<UniqueIds Version="3">
+			<Count type="key">33</Count>
+			<File1 type="key">Testpult/CAN-Status</File1>
+			<Id1 type="key">1</Id1>
+			<File2 type="key">Testpult/Battery Packs Left</File2>
+			<Id2 type="key">17</Id2>
+			<File3 type="key">Testpult/Battery Packs_Right</File3>
+			<Id3 type="key">16</Id3>
+			<File4 type="key">Testpult/CAN IO</File4>
+			<Id4 type="key">36</Id4>
+			<File5 type="key">Testpult/Copy of Überblick</File5>
+			<Id5 type="key">49</Id5>
+			<File6 type="key">Testpult/Current and Soc</File6>
+			<Id6 type="key">38</Id6>
+			<File7 type="key">Testpult/Drehzahl_Auswertung</File7>
+			<Id7 type="key">32</Id7>
+			<File8 type="key">Testpult/GLV AMS</File8>
+			<Id8 type="key">27</Id8>
+			<File9 type="key">Testpult/GLV Battery</File9>
+			<Id9 type="key">44</Id9>
+			<File10 type="key">Testpult/Inverter_Motoren</File10>
+			<Id10 type="key">5</Id10>
+			<File11 type="key">Testpult/Safety</File11>
+			<Id11 type="key">20</Id11>
+			<File12 type="key">Testpult/Sensorboard Front</File12>
+			<Id12 type="key">7</Id12>
+			<File13 type="key">Testpult/Sensorboard Mitte</File13>
+			<Id13 type="key">8</Id13>
+			<File14 type="key">Testpult/Sensorboard Rear</File14>
+			<Id14 type="key">33</Id14>
+			<File15 type="key">Testpult/Sicherheitskreis</File15>
+			<Id15 type="key">23</Id15>
+			<File16 type="key">Testpult/Throttle</File16>
+			<Id16 type="key">40</Id16>
+			<File17 type="key">Testpult/TorqueVectoring</File17>
+			<Id17 type="key">25</Id17>
+			<File18 type="key">Testpult/TractionControl</File18>
+			<Id18 type="key">24</Id18>
+			<File19 type="key">Testpult/Überblick</File19>
+			<Id19 type="key">18</Id19>
+			<File20 type="key">Testpult/Überblick_</File20>
+			<Id20 type="key">9</Id20>
+			<File21 type="key">Testpult/Überblick_1</File21>
+			<Id21 type="key">48</Id21>
+			<File22 type="key">Testpult/Überblick_DR18E</File22>
+			<Id22 type="key">51</Id22>
+			<File23 type="key">Testpult/Überblick_old</File23>
+			<Id23 type="key">30</Id23>
+			<File24 type="key">Testpult/Umrichter2 Status</File24>
+			<Id24 type="key">39</Id24>
+			<File25 type="key">Testpult/Umrichter1 Status</File25>
+			<Id25 type="key">34</Id25>
+			<File26 type="key">Testpult/Vehicle State Machine</File26>
+			<Id26 type="key">37</Id26>
+			<File27 type="key">Testpult/Freigabe_Testaufbau</File27>
+			<Id27 type="key">0</Id27>
+			<File28 type="key">Testpult/Temperaturegelung</File28>
+			<Id28 type="key">2</Id28>
+			<File29 type="key">Testpult/Aufbau</File29>
+			<Id29 type="key">3</Id29>
+			<File30 type="key">Testpult/Derating</File30>
+			<Id30 type="key">4</Id30>
+			<File31 type="key">Testpult/Gaspedal</File31>
+			<Id31 type="key">6</Id31>
+			<File32 type="key">Testpult/HV_Battery_Input</File32>
+			<Id32 type="key">10</Id32>
+			<File33 type="key">Testpult/Warnings</File33>
+			<Id33 type="key">11</Id33>
+		</UniqueIds>
+	</Instrumentation>
+	<DiagnosticsManagement/>
+	<PlatformManagement Version="9"/>
+	<DataSetManager>
+		<Version>
+			<Version type="key">2</Version>
+		</Version>
+		<Work/>
+		<ActiveWork/>
+		<Reference/>
+		<ActiveReference/>
+		<Master/>
+		<ActiveMaster/>
+		<InitialMaster/>
+		<Incomplete/>
+		<IncompleteReadonly/>
+		<DataSet/>
+		<Readonly/>
+		<LabelListFilter>
+			<LabelListFilterFile type="key"/>
+			<LabelListFilterActive type="key">0</LabelListFilterActive>
+		</LabelListFilter>
+		<AutomaticDownload/>
+	</DataSetManager>
+</Root>
