@@ -1,0 +1,13 @@
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+*.b#[!a]
+*.s#[!a]
+*.job
+*.s#3
+*.s#2
+*.icloud
+Hardware/VCU/.gitkeep 2
+*.dru
