@@ -1,0 +1,149 @@
+LOG-file created by automatic CAN datafile reload
+Date: 01-Mar-2018 17:04:21
+
+The following method was used: "ReloadController"
+
+****************************************************************************************************
+RELOAD:
+Controller number: 1  Board/Module number:1  Board Type: CAN_Type1  GroupId: 1
+
+Data file: c:\users\deltaracing\documents\canoe\dr18e\dbc\dr18e.dbc
+
+Number of RTICAN message blocks which participated in the reload process: 35
+
+Number of RTICAN messages blocks which created at least one open connection: 0
+
+
+Number of RTICAN messages blocks which participated in the reload process but did not
+experience any changes in block in/outport configuration: 35
+block names: 
+"DR18E_Testpult/Ausgabe/CANIO/SIG_Brakelight"
+"DR18E_Testpult/Ausgabe/CANIO/SIG_Buzzer"
+"DR18E_Testpult/Ausgabe/CANIO/SIG_FAN"
+"DR18E_Testpult/Ausgabe/CANIO/SIG_Inverter_Enable"
+"DR18E_Testpult/Ausgabe/CANIO/SIG_PRECHARGE"
+"DR18E_Testpult/Ausgabe/CANIO/SIG_PUMP"
+"DR18E_Testpult/Ausgabe/CANIO/SIG_SHUTDOWN"
+"DR18E_Testpult/Ausgabe/Display/Car_State"
+"DR18E_Testpult/Ausgabe/Display/DISP_Error_Code"
+"DR18E_Testpult/Ausgabe/Display/Drive_Torque_Max"
+"DR18E_Testpult/Ausgabe/Inverter TX/Inverters TXTorque/INV_1_TX"
+"DR18E_Testpult/Ausgabe/Inverter TX/Inverters TXTorque/INV_2_TX"
+"DR18E_Testpult/Ausgabe/SensorboardMitte/Dashboard_LEDs"
+"DR18E_Testpult/Eingabe Fahrzeug/CAN IO/CANIO_AUX"
+"DR18E_Testpult/Eingabe Fahrzeug/CAN IO/CANIO_Temperature"
+"DR18E_Testpult/Eingabe Fahrzeug/GLV AMS
+/Cells1_4/GLV_Cells"
+"DR18E_Testpult/Eingabe Fahrzeug/GLV AMS
+/GLV_AMS_STATe"
+"DR18E_Testpult/Eingabe Fahrzeug/GLV AMS
+/PRECHARGE1_STATUS"
+"DR18E_Testpult/Eingabe Fahrzeug/GLV AMS
+/PRECHARGE2_STATUS"
+"DR18E_Testpult/Eingabe Fahrzeug/GLV AMS
+/TemperatueGLV
+/GLV_TEMP"
+"DR18E_Testpult/Eingabe Fahrzeug/Gyro/Yaw_Rate"
+"DR18E_Testpult/Eingabe Fahrzeug/Inverter Feedback Messages/Istwerte Umrichter 1 empfangen
+/INV_1_Recieve"
+"DR18E_Testpult/Eingabe Fahrzeug/Inverter Feedback Messages/Istwerte Umrichter 2 empfangen/INV_2_Recieve"
+"DR18E_Testpult/Eingabe Fahrzeug/Lenkwinkelgeber/Steering"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Front/BOTS_Status"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Front/BSPD_Status"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Front/Brake_Value"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Front/Sensor_Current"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Front/Throttle"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Mitte/Dashboard_AUX"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Mitte/Dashboard_Buttons"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Mitte/RPM_Front"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Rear/ES_rear"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Rear/Oiltemperature"
+"DR18E_Testpult/Eingabe Fahrzeug/Sensorboard Rear/Sensor_Watertemp"
+
+Number of RTICAN messages blocks which did not participate in the reload process: 58
+block names :
+"DR18E_Testpult/Ausgabe/Inverter TX/Inverters TXUniversal/INV_1_TX"
+"DR18E_Testpult/Ausgabe/Inverter TX/Inverters TXUniversal/INV_2_TX"
+"DR18E_Testpult/Ausgabe/Inverter TX/Umrichter Init/TX MessageInit"
+"DR18E_Testpult/Ausgabe/Inverter TX/Umrichter Init/TX MessageInit1"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/BMS Status"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/BMS Status1"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells1_24/Cells13_24
+
+
+/RX Cell 13-16"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells1_24/Cells13_24
+
+
+/RX Cell 17-20"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells1_24/Cells13_24
+
+
+/RX Cell 21-24"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells1_24/Cells1_12/RX Cell 1-4"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells1_24/Cells1_12/RX Cell 5-8"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells1_24/Cells1_12/RX Cell 9-12"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells25_48/Cells25_36/RX Cell 25-28"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells25_48/Cells25_36/RX Cell 29-32"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells25_48/Cells25_36/RX Cell 33-36"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells25_48/Cells37_48/RX Cell 37-40"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells25_48/Cells37_48/RX Cell 41-44"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells25_48/Cells37_48/RX Cell 45-48"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells49_72/Cells49_60/RX Cell 49-52"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells49_72/Cells49_60/RX Cell 53-56"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells49_72/Cells49_60/RX Cell 57-60"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells49_72/Cells61_72/RX Cell 61-64"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells49_72/Cells61_72/RX Cell 65-68"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells49_72/Cells61_72/RX Cell 69-72"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells73_96/Cells73_84/RX Cell 73-76"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells73_96/Cells73_84/RX Cell 77-80"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells73_96/Cells73_84/RX Cell 81-84"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells73_96/Cells85_96/RX Cell 85-88"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells73_96/Cells85_96/RX Cell 89-92"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells73_96/Cells85_96/RX Cell 93-96"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells97_120/Cells109_120/RX Cell 109-112"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells97_120/Cells109_120/RX Cell 113-116"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells97_120/Cells109_120/RX Cell 117-120"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells97_120/Cells97_108/RX Cell 101-104"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells97_120/Cells97_108/RX Cell 105-108"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/Cells97_120/Cells97_108/RX Cell 97-100"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString1
+/BMS Temp string1_1"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString1
+/BMS Temp string1_10"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString1
+/BMS Temp string1_2"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString1
+/BMS Temp string1_3"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString1
+/BMS Temp string1_4"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString1
+/BMS Temp string1_5"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString1
+/BMS Temp string1_6"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString1
+/BMS Temp string1_7"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString1
+/BMS Temp string1_8"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString1
+/BMS Temp string1_9"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString2/BMS Temp string2_1"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString2/BMS Temp string2_10"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString2/BMS Temp string2_2"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString2/BMS Temp string2_3"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString2/BMS Temp string2_4"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString2/BMS Temp string2_5"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString2/BMS Temp string2_6"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString2/BMS Temp string2_7"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString2/BMS Temp string2_8"
+"DR18E_Testpult/Eingabe Fahrzeug/BMS/TemperatueString2/BMS Temp string2_9"
+"DR18E_Testpult/Eingabe Fahrzeug/GLV AMS
+/TemperatueGLV
+/GLV Temp_2"
+"DR18E_Testpult/Eingabe Fahrzeug/GLV AMS
+/TemperatueGLV
+/GLV Temp_3"
+
+****************************************************************************************************
+
+%EOF
